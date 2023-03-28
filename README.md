@@ -1,3 +1,2 @@
 # color-pickers
-# `improving ...`
-## New features
+## New features coming soon ...
